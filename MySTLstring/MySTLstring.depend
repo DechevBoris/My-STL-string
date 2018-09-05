@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1536154590 source:d:\c++projects\mystlstring\main.cpp
+	"MyString.h"
+
+1536154671 d:\c++projects\mystlstring\include\mystring.h
+	<iostream>
+	<cstring>
+
+1536154495 source:d:\c++projects\mystlstring\src\mystring.cpp
+	"MyString.h"
+
